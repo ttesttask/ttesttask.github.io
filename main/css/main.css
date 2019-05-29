@@ -236,6 +236,8 @@ body {
 }
 
 .user-form_additional-visible .user-form__additional-box {
+  display: -ms-flexbox;
+  display: flex;
   transform: translateY(0);
 }
 
